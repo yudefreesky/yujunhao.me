@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>test</title>
-      <link>/post/2020/06/29/test/</link>
+      <title>1</title>
+      <link>/post/2020/06/29/1/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020/06/29/test/</guid>
+      <guid>/post/2020/06/29/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>/post/2020/06/29/2/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/06/29/2/</guid>
       <description></description>
     </item>
     
