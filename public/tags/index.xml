@@ -6,7 +6,11 @@
     <description>Recent content in Tags on yuwushaung&#39;s minimal Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+>>>>>>> 4df2ff6adc95ee8f02af16f61c223bac4c126264
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +18,11 @@
     <item>
       <title>blogdown</title>
       <link>/tags/blogdown/</link>
+<<<<<<< HEAD
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+=======
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+>>>>>>> 4df2ff6adc95ee8f02af16f61c223bac4c126264
       
       <guid>/tags/blogdown/</guid>
       <description></description>

@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>/tags/blogdown/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url>
@@ -10,25 +11,52 @@
   <url>
     <loc>/categories/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+=======
+    <loc>/post/2020/06/26/another-day/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/blogdown/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+>>>>>>> 4df2ff6adc95ee8f02af16f61c223bac4c126264
   </url>
   
   <url>
     <loc>/categories/hugo/</loc>
+<<<<<<< HEAD
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+=======
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+>>>>>>> 4df2ff6adc95ee8f02af16f61c223bac4c126264
   </url>
   
   <url>
     <loc>/post/</loc>
+<<<<<<< HEAD
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+=======
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+>>>>>>> 4df2ff6adc95ee8f02af16f61c223bac4c126264
   </url>
   
   <url>
     <loc>/tags/</loc>
+<<<<<<< HEAD
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+=======
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+>>>>>>> 4df2ff6adc95ee8f02af16f61c223bac4c126264
   </url>
   
   <url>
     <loc>/</loc>
+<<<<<<< HEAD
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,6 +72,8 @@
   
   <url>
     <loc>/post/2020/06/26/another-day/</loc>
+=======
+>>>>>>> 4df2ff6adc95ee8f02af16f61c223bac4c126264
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
   </url>
   
