@@ -6,12 +6,17 @@
     <description>Recent content in Hugo on yuwushaung&#39;s minimal Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+>>>>>>> 4df2ff6adc95ee8f02af16f61c223bac4c126264
     
 	<atom:link href="/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>我可以</title>
       <link>/post/2020/06/29/%E6%88%91%E5%8F%AF%E4%BB%A5/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
@@ -30,6 +35,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> 4df2ff6adc95ee8f02af16f61c223bac4c126264
       <title>Another Day!</title>
       <link>/post/2020/06/26/another-day/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
@@ -41,6 +48,7 @@
     <item>
       <title>fly to the moon</title>
       <link>/post/2020/03/25/fly/</link>
+<<<<<<< HEAD
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2020/03/25/fly/</guid>
@@ -52,6 +60,19 @@
       <link>/post/2020/03/25/new-start/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
       
+=======
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/03/25/fly/</guid>
+      <description>fly to the moon </description>
+    </item>
+    
+    <item>
+      <title>new start</title>
+      <link>/post/2020/03/25/new-start/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+>>>>>>> 4df2ff6adc95ee8f02af16f61c223bac4c126264
       <guid>/post/2020/03/25/new-start/</guid>
       <description>new start </description>
     </item>
