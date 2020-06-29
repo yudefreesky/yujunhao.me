@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/2020/06/29/1/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020/06/29/2/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/blogdown/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url>
@@ -43,7 +33,7 @@
   </url>
   
   <url>
-    <loc>/post/2020/06/29/%E6%88%91%E5%8F%AF%E4%BB%A5/</loc>
+    <loc>/post/2020/06/29/hello/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url>
   
